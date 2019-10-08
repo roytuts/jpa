@@ -1,0 +1,14 @@
+apply plugin: 'java'
+
+sourceCompatibility = 12
+targetCompatibility = 12
+
+repositories {
+    mavenLocal()
+    mavenCentral()
+}
+
+dependencies {
+	implementation("org.hibernate:hibernate-entitymanager:5.4.6.Final")
+	runtime('mysql:mysql-connector-java:8.0.17')
+}

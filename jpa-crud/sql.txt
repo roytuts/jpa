@@ -1,0 +1,15 @@
+CREATE TABLE `user_details` (
+  `id` int unsigned NOT NULL AUTO_INCREMENT,
+  `first_name` varchar(20) NOT NULL,
+  `last_name` varchar(15) NOT NULL,
+  `email` varchar(100) NOT NULL,
+  `dob` varchar(16) NOT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB AUTO_INCREMENT=1 DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
+
+insert  into
+`user_details`(`id`,`first_name`,`last_name`,`email`,`dob`)
+values
+(7,'Soumitra','Roy','contact@roytuts.com','30-08-2016'),
+(8,'Souvik','Sanyal','souvik.sanyal@email.com','30-09-1991'),
+(9,'Abc','Xyz','abc@xyz.com','12-01-1998');
