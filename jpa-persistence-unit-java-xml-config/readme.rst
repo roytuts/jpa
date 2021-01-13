@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/java-and-xml-based-jpa-persistence-unit-configurations/
