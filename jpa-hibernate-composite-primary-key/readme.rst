@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/how-to-map-composite-primary-key-to-entity-class-in-jpa-hibernate/
