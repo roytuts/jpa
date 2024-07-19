@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/jpa-crud-example/
+Please follow the tutorial https://roytuts.com/jpa-crud-example/
