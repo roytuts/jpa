@@ -1,1 +1,1 @@
-You can read tutorial https://www.roytuts.com/jpa-criteria-api/
+Please follow the tutorial https://roytuts.com/jpa-criteria-api/
